@@ -114,5 +114,4 @@ tests/logs
 # Pipfile
 Pipfile
 
-# Instances
-z_*
+
